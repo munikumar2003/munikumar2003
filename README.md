@@ -28,10 +28,10 @@
 
 ### 🙋‍♂️ About Me
 
-- 🔭 Currently working on projects related to **Data Science** and **Machine Learning**
-- 🌱 Learning **AI models** and **Backend Development**
-- 💼 Looking for new opportunities in **Software Engineering** and **Data Analysis**
-- 💬 Ask me about anything related to **Java**, **Python**, **Machine Learning**, and **Web Development**
+- 🔭 Currently working on projects related to **Backend Development** and **Machine Learning**
+- 🌱 Learning **AI** and **Full Stack Development**
+- 💼 Looking for new opportunities in **Software Engineering** and **Data Analytics**
+- 💬 Ask me about anything related to **Java**,**SQL**,**Spring Boot**, **Python**, **Machine Learning**, and **Web Application Development**
 
 ---
 
@@ -51,6 +51,7 @@ Here are the core concepts and fields I have worked on or studied in-depth:
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" style="margin-right:10px">
+  <img src="https://img.shields.io/badge/Spring-Boot-green.svg?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring" style="margin-right:10px">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="margin-right:10px">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" style="margin-right:10px">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" style="margin-right:10px">
@@ -78,6 +79,7 @@ Here are the core concepts and fields I have worked on or studied in-depth:
 
 ### 🚀 Projects:
 
+- [**Library Management System**](http://github.com/munikumar2003/Library_Management_System/) - Provides **RESTful APIs** to manage a library's books. It includes functionalities to **add, update, retrieve, and delete** books from the library.
 - [**Cardio Thoracic Disease Prediction**](http://cardio-thoracic.42web.io/) – Predicts cardio-thoracic diseases with 95% accuracy using **Gaussian Naïve Bayes**.
 - [**News Website**](https://munikumar2003.github.io/PROJECT-NEWS-ALERT/main.html) – A fully responsive **news website** built using HTML, CSS, JavaScript, and PHP with live temperature updates.
 - [**ATM Interface**](https://github.com/munikumar2003/oibsip/) – Created an **ATM simulation interface** using Java, with features like transaction history and balance inquiry.
