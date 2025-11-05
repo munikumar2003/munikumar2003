@@ -67,11 +67,6 @@ Here are the core concepts and fields I have worked on or studied in-depth:
   <img src="https://github-readme-stats.vercel.app/api?username=munikumar2003&show_icons=true&theme=radical" alt="GitHub Stats" style="margin-bottom:20px">
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=munikumar2003&theme=radical" alt="GitHub Streak" style="margin-bottom:20px">
-</p>
-
-
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=munikumar2003&layout=compact&theme=radical" alt="Top Languages">
