@@ -86,19 +86,10 @@
   - Developed a scalable backend architecture leveraging **Spring Boot (MVC Layers)** to handle secure book transactions, inventory tracking, and full CRUD operations via RESTful APIs.
 
 ---
-
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=munikumar2003&show_icons=true&theme=radical" alt="GitHub Stats" style="margin-bottom:20px">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats-liart-kappa.vercel.app?user=munikumar2003&theme=radical" alt="GitHub Streak" style="margin-bottom:20px">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=munikumar2003&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=munikumar2003" alt="GitHub Stats" style="margin-bottom:20">
 </p>
 
 ---
