@@ -1,8 +1,8 @@
 <!-- Profile Header -->
 
-<h1 align="center">Hi, I'm CHEMURU MUNI KUMAR </h1>
+<h1 align="center">Hi, I'm CHEMURU MUNI KUMAR 👋</h1>
 <p align="center">
-  <em>Aspiring Software Engineer | Data Science Enthusiast | Problem Solver</em>
+  <em>M.Tech Student at NIT Srinagar | Full-Stack Developer | Data Science & AI Enthusiast</em>
 </p>
 
 <!-- Social Links with Spacing -->
@@ -12,7 +12,7 @@
   </a>
   
   <a href="https://leetcode.com/CHEMURU_MUNI_KUMAR/">
-    <img src="https://img.shields.io/badge/LeetCode-500+%20problems%20solved-blue?logo=leetcode" alt="LeetCode" style="margin-right:10px">
+    <img src="https://img.shields.io/badge/LeetCode-600+%20problems%20solved-blue?logo=leetcode" alt="LeetCode" style="margin-right:10px">
   </a>
   
   <a href="https://www.codechef.com/users/munikumar2003">
@@ -28,36 +28,62 @@
 
 ### 🙋‍♂️ About Me
 
-- 🔭 Currently working on projects related to **Backend Development** and **Machine Learning**
-- 🌱 Learning **AI** and **Full Stack Development**
-- 💼 Looking for new opportunities in **Software Engineering** and **Data Analytics**
-- 💬 Ask me about anything related to **Java**,**SQL**,**Spring Boot**, **Python**, **Machine Learning**, and **Web Application Development**
+- 🎓 Pursuing my **M.Tech in Computer Science and Engineering** at **NIT Srinagar** (CGPA: 9.19).
+- 💼 worked as a **Developer Intern at Infosys Springboard**, building responsive web applications and scalable RESTful APIs.
+- 🌱 Deepening my knowledge in **Microservices Architecture**, **AI Bias Detection**, and **Cloud Computing**.
+- 💬 Ask me about **Java**, **Spring Boot**, **MySQL**, **React**, and **Data Science/AI pipeline development**.
 
 ---
 
-### 🧠 Concepts:
+### 🛠️ Technical Skills & Tools
 
-Here are the core concepts and fields I have worked on or studied in-depth:
-
-- **Data Structures and Algorithms:** Arrays, Strings, Lists, Stacks, Queues, Sets, Maps, Sorting, Searching, Trees, and Graphs.
-- **DBMS (Database Management Systems):** Understanding of relational databases, SQL, and efficient data management.
-- **Operating Systems:** Familiar with memory management, process scheduling, and file systems.
-- **Software Engineering:** Applied best practices in software development, including modular design and agile methodologies.
-- **Machine Learning:** Expertise in algorithms like Gaussian Naïve Bayes, model development, and data analysis for predictive systems.
-
----
-
-### 🛠️ Languages and Tools:
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" style="margin-right:10px">
-  <img src="https://img.shields.io/badge/Spring-Boot-green.svg?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring" style="margin-right:10px">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="margin-right:10px">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" style="margin-right:10px">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" style="margin-right:10px">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" style="margin-right:10px">
+#### 💻 Programming Languages & Core Concepts
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sharp&logoColor=white" alt="SQL">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
 </p>
+
+#### ⚙️ Frameworks, Libraries & Architectures
+<p align="left">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring MVC">
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=api&logoColor=white" alt="REST APIs">
+  <img src="https://img.shields.io/badge/Microservices-8A2BE2?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Microservices">
+</p>
+
+#### 🧰 Databases, Cloud & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server">
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
+  <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</p>
+
+---
+
+### 🚀 Featured Projects:
+
+- 🛡️ **Model & Data Bias Detection (AI Application)**
+  - Built a full-stack system using 6 industry-standard metrics to audit ML models and datasets for hidden discrimination across protected attributes (gender, age, race).
+  - Implemented an end-to-end 6-step automation pipeline covering ingestion, auditing, mitigation, REST APIs, and automated PDF report generation.
+
+- 🎓 **College Counselling Helper (Full-Stack Web App)**
+  - Engineered a reactive web application using **React**, **Spring Boot**, and **SQL Server** to streamline exam-based admission recommendations.
+  - Integrates complex filtering for exams like JEE, GATE, NEET, and CAT, featuring comparative matrices for ranking, tuition fees, and personalized shortlists.
+
+- 📚 **Library Management System (Java Application)**
+  - Developed a scalable backend architecture leveraging **Spring Boot (MVC Layers)** to handle secure book transactions, inventory tracking, and full CRUD operations via RESTful APIs.
 
 ---
 
@@ -68,10 +94,8 @@ Here are the core concepts and fields I have worked on or studied in-depth:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-liart-kappa.vercel.app?user=munikumar2003&theme=radical" 
-       alt="GitHub Streak" style="margin-bottom:20px">
+  <img src="https://github-readme-streak-stats-liart-kappa.vercel.app?user=munikumar2003&theme=radical" alt="GitHub Streak" style="margin-bottom:20px">
 </p>
-
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=munikumar2003&layout=compact&theme=radical" alt="Top Languages">
@@ -79,20 +103,13 @@ Here are the core concepts and fields I have worked on or studied in-depth:
 
 ---
 
-### 🚀 Projects:
+### 🎯 Certifications & Achievements:
 
-- [**Library Management System**](http://github.com/munikumar2003/Library_Management_System/) - Provides **RESTful APIs** to manage a library's books. It includes functionalities to **add, update, retrieve, and delete** books from the library.
-- [**Cardio Thoracic Disease Prediction**](http://cardio-thoracic.42web.io/) – Predicts cardio-thoracic diseases with 95% accuracy using **Gaussian Naïve Bayes**.
-- [**News Website**](https://munikumar2003.github.io/PROJECT-NEWS-ALERT/main.html) – A fully responsive **news website** built using HTML, CSS, JavaScript, and PHP with live temperature updates.
-- [**ATM Interface**](https://github.com/munikumar2003/oibsip/) – Created an **ATM simulation interface** using Java, with features like transaction history and balance inquiry.
-
----
-
-### 🎯 Accomplishments:
-
-- 🧩 Solved **1100+ problems** across various coding platforms like **LeetCode**, **CodeChef**, and **Coding Ninjas**.
-- 🏆 Winner of the **Code Storm** coding challenge at Sree Vidyanikethan Engineering College.
-- 🏆 Among **Top-50** winners in Java Hackathon by WeCP and Experian - 2024.
+- ☁️ **AWS Certified Cloud Practitioner** (Foundational) – Nov 2025[cite: 1].
+- 🤖 **Qualified GATE 2025** in Data Science and Artificial Intelligence (DA)[cite: 1].
+- ☕ **Wipro Certified Java Full Stack** Developer & **NPTEL Certified** in Java Programming[cite: 1].
+- 🧩 Solved **600+ problems** across LeetCode, CodeChef, GeeksforGeeks, and Coding Ninjas[cite: 1].
+- 🏆 Ranked among the **Top-50 winners** in the Java Hackathon Challenge by WeCP & Experian[cite: 1].
 
 ---
 
@@ -109,7 +126,6 @@ Here are the core concepts and fields I have worked on or studied in-depth:
 </p>
 
 ---
-
 <p align="center">
-  Thanks For Visiting...
+  Thanks for visiting!
 </p>
